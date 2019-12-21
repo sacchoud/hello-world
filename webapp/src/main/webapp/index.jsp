@@ -1,3 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Hello, This is SARK from Zensar Technologies !!! </h2>
+<h1> Hello, This is Sachin Choudhari. Welcome to Valaxy Technologies !!! </h1>
 
